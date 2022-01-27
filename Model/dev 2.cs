@@ -8,5 +8,6 @@ namespace gitProba.Model
     public class dev_2
     {
         public int Id { get; set; }
+        public string Name { get; set; }
     }
 }
